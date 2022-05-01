@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Encora Digital Inc.**
 
-- 🌱 I’m currently learning **QA, backend and DB**
+- 🌱 I’m currently learning **QA, Backend and DB**
 
 - 👯 I work mostly with **QA and Frontend**
 
 - 📖 I’m studying **Computer Science at UFPE**
 
-- 📫 How to reach me **eidsonsa@gmail.com**
+- 📫 How to reach me: **eidsonsa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
