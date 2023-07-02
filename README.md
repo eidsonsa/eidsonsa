@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working at **Encora Digital Inc**
 
-- 🌱 I’m currently learning **DevOps and FullStack Development**
-
-- 📚 I’m studying **Computer Science at UFPE**
-
 - 📫 Reach me on **eidsonsa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
